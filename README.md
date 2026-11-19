@@ -22,9 +22,9 @@ I also contributed to the [UoL Grades Calculator](https://github.com/Uol-Project
 
 ## Skills
 
-**Languages:** Python, C++, JavaScript, SQL
-**ML and data:** PyTorch, Keras/TensorFlow, Hugging Face Transformers, LangChain, NLTK, pandas
-**Other:** JUCE (audio DSP), Node.js/Express, Flask, p5.js, Git
+- **Languages:** Python, C++, JavaScript, SQL
+- **ML and data:** PyTorch, Keras/TensorFlow, Hugging Face Transformers, LangChain, NLTK, pandas
+- **Other:** JUCE (audio DSP), Node.js/Express, Flask, p5.js, Git
 
 ## Certifications
 
