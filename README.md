@@ -13,10 +13,13 @@ I'm a third-year **BSc Computer Science** student at the University of London (a
 |---|---|---|
 | [OtoDecks](https://github.com/SpiderMan5269/OtoDecks) | Dual-deck DJ app with BPM detection, FFT spectrum analysers, IIR EQ, echo/reverb, hot cues and a sampler (97%) | C++, JUCE |
 | [CourseMate-Chatbot](https://github.com/SpiderMan5269/CourseMate-Chatbot) | NLP course-helper chatbot with intent matching, typo correction, sentiment analysis and regression tests (94%) | Python, NLTK |
-| [Image-Processing-p5js](https://github.com/SpiderMan5269/Image-Processing-p5js) | Background removal, edge-based motion detection and K-means colour palettes from scratch | JavaScript, p5.js |
-| [Dodgem-Arena-p5js](https://github.com/SpiderMan5269/Dodgem-Arena-p5js) | Physics bumper-car arena with steering AI, a damage system and particle effects | p5.js, matter.js |
+| [MerkelRex](https://github.com/SpiderMan5269/MerkelRex) | Cryptocurrency exchange simulator with an order book, ask/bid matching, wallets, user accounts and candlestick summaries | C++ |
+| [Image-Processing-p5js](https://github.com/SpiderMan5269/Image-Processing-p5js) ([live](https://spiderman5269.github.io/Image-Processing-p5js/)) | Background removal, edge-based motion detection and K-means colour palettes from scratch | JavaScript, p5.js |
+| [Dodgem-Arena-p5js](https://github.com/SpiderMan5269/Dodgem-Arena-p5js) ([live](https://spiderman5269.github.io/Dodgem-Arena-p5js/)) | Physics bumper-car arena with steering AI, a damage system and particle effects | p5.js, matter.js |
 | [Event-Manager](https://github.com/SpiderMan5269/Event-Manager) | Full-stack event booking app with bcrypt hashing, sessions and role-based access control | Node.js, Express, SQLite |
-| [Audio-Visualiser-p5js](https://github.com/SpiderMan5269/Audio-Visualiser-p5js) | Real-time audio visualiser with ten audio-reactive modes and a 3-band EQ | p5.js, p5.sound |
+| [Postfix-PlusPlus-Interpreter](https://github.com/SpiderMan5269/Postfix-PlusPlus-Interpreter) | Stack-based interpreter with an O(1) symbol table, error rollback and 23 tests | JavaScript, Node.js |
+| [Audio-Visualiser-p5js](https://github.com/SpiderMan5269/Audio-Visualiser-p5js) ([live](https://spiderman5269.github.io/Audio-Visualiser-p5js/)) | Real-time audio visualiser with ten audio-reactive modes and a 3-band EQ | p5.js, p5.sound |
+| [Platform-Adventure](https://github.com/SpiderMan5269/Platform-Adventure) ([live](https://spiderman5269.github.io/Platform-Adventure/)) | 2D side-scrolling platform game with enemies, collectables and multiple levels | p5.js |
 
 I also contributed to the [UoL Grades Calculator](https://github.com/Uol-Project-Collab/UOL_grades_calculator), a student-built open-source project (authentication, grade averaging and multi-module entry).
 
